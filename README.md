@@ -1,0 +1,1 @@
+# Seul le script database permet la mise à jour directement dans la BDD
